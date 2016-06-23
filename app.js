@@ -16,7 +16,7 @@ $(document).ready(function() {
     console.log(counter);
   });
 
-<div id="box1" class="box">Added row 1</div>
+
 
   $("#del").click(function(){
     if(counter <= 0){
