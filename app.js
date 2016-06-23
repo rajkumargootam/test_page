@@ -1,3 +1,4 @@
+
 $(document).ready(function() {
   console.log("Inside");
   var counter = 0;
@@ -15,8 +16,6 @@ $(document).ready(function() {
     }
     console.log(counter);
   });
-
-
 
   $("#del").click(function(){
     if(counter <= 0){
