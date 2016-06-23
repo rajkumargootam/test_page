@@ -1,0 +1,17 @@
+.box{
+  padding-top: 1.2em;
+  border-radius: 5px;
+  height: 4em;
+  width: 30em;
+  background-color: blue;
+  text-align: center;
+}
+
+#stable{
+  padding-top: 1.2em;
+  border-radius: 5px;
+  height: 4em;
+  width: 30em;
+  background-color: grey;
+  text-align: center;
+}
